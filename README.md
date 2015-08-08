@@ -12,6 +12,10 @@
 3. 分享你的开发瓶颈疑惑。
 4. 技术交流，线下私聊成为技术上的联盟者。
 
+####使用指南：
 
+![1](https://github.com/yanbober/AndroidCommunication/raw/master/image/step0.png)
+
+![2](https://github.com/yanbober/AndroidCommunication/raw/master/image/step1.png)
 
 [点击查看我的博客](http://blog.csdn.net/yanbober)
